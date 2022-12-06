@@ -11,7 +11,7 @@ Discount rules:
 
 Reject order placement when:
 * Delivery date is not in future
-* Desired amount is not positve round number
+* Desired amount is not positive round number
 * Desired amount is greater than 999
 
 You can skip authentication and authorization. 
@@ -22,7 +22,7 @@ You can skip authentication and authorization.
 * You can choose whatever tools and libraries you prefer
 
 ## What gets evaluated
-* Accordance to business requirements
+* Accordance to business requirements described above
 * Code quality (we value design guided by tests)
 * Checkout-and-run convenience
 
